@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unrealprojects\\audiotestlevel\\plugins\\dynamicreverb\\source\\dynamicreverb\\private\\dynamicreverbdata.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unrealprojects\\audiotestlevel\\intermediate\\build\\win64\\x64\\audiotestleveleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unrealprojects\\audiotestlevel\\plugins\\dynamicreverb\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dynamicreverb\\definitions.dynamicreverb.h",
+            "f:\\unrealprojects\\audiotestlevel\\plugins\\dynamicreverb\\source\\dynamicreverb\\public\\dynamicreverbdata.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

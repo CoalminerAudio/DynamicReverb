@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DynamicReverb.cpp.obj": [
+			"AC_DynamicReverb.gen.cpp.obj",
+			"DynamicReverb.init.gen.cpp.obj",
+			"AC_DynamicReverb.cpp.obj",
+			"DynamicReverb.cpp.obj"
+		]
+	}
+}

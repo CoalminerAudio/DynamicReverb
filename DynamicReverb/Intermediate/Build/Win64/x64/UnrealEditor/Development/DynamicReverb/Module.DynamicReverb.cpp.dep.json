@@ -1,0 +1,38 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dynamicreverb\\module.dynamicreverb.cpp",
+        "ProvidedModule": "",
+        "PCH": "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\intermediate\\build\\win64\\x64\\audiotestleveleditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dynamicreverb\\definitions.dynamicreverb.h",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicreverb\\uht\\ac_dynamicreverb.gen.cpp",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\source\\dynamicreverb\\public\\ac_dynamicreverb.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystatics.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetsystemlibrary.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetsystemlibrary.generated.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\sound\\dialoguetypes.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\dialoguetypes.generated.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\gameplaystaticstypes.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystaticstypes.generated.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gameplaystatics.generated.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl",
+            "f:\\epiclibrary\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\components\\timelinecomponent.h",
+            "f:\\epiclibrary\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\timelinecomponent.generated.h",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\source\\dynamicreverb\\public\\dynamicreverbdata.h",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicreverb\\uht\\dynamicreverbdata.generated.h",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicreverb\\uht\\ac_dynamicreverb.generated.h",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicreverb\\uht\\dynamicreverb.init.gen.cpp",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\intermediate\\build\\win64\\unrealeditor\\inc\\dynamicreverb\\uht\\dynamicreverbdata.gen.cpp",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\source\\dynamicreverb\\private\\ac_dynamicreverb.cpp",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\source\\dynamicreverb\\private\\dynamicreverb.cpp",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\source\\dynamicreverb\\public\\dynamicreverb.h",
+            "f:\\unrealprojects\\audiotestlevel\\audiotestproject\\plugins\\dynamicreverb\\source\\dynamicreverb\\private\\dynamicreverbdata.cpp"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

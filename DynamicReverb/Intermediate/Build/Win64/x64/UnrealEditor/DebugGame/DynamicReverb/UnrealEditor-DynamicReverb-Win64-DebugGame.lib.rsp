@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DynamicReverb-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UnrealProjects\AudioTestLevel\Intermediate\Build\Win64\x64\AudioTestLevelEditor\DebugGame\UnrealEd\SharedPCH.UnrealEd.Project.NonOptimized.ValApi.Cpp20.h.obj"
+"F:\UnrealProjects\AudioTestLevel\Plugins\DynamicReverb\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\DynamicReverb\Module.DynamicReverb.cpp.obj"
+"F:\UnrealProjects\AudioTestLevel\Plugins\DynamicReverb\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\DynamicReverb\AC_DynamicReverb.cpp.obj"
+"F:\UnrealProjects\AudioTestLevel\Plugins\DynamicReverb\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\DynamicReverb\DynamicReverb.cpp.obj"
+"F:\UnrealProjects\AudioTestLevel\Plugins\DynamicReverb\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\DynamicReverb\Default.rc2.res"
+/OUT:"F:\UnrealProjects\AudioTestLevel\Plugins\DynamicReverb\Intermediate\Build\Win64\x64\UnrealEditor\DebugGame\DynamicReverb\UnrealEditor-DynamicReverb-Win64-DebugGame.lib"
